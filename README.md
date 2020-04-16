@@ -60,3 +60,7 @@ Semantic Network.
 RDF,RDFS,OWL and Directing Link.  
 Keywords and Descriptors sets of Logic Description.  
 Automator and dynamic analyzied Excute.  
+
+
+Some Description and instruction of others related Topic title:  
+Restricted Useful Behavior Excution.  
