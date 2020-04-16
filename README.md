@@ -57,5 +57,6 @@ Ownself,Groups and common-recognize Reference.
 Basic Concepts Sets.  
 Knowledge Graphs.  
 Semantic Network.  
-RDF and Directing Link.  
-Keywords and Descriptors sets of Logic Description.
+RDF,RDFS,OWL and Directing Link.  
+Keywords and Descriptors sets of Logic Description.  
+Automator and dynamic analyzied Excute.  
