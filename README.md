@@ -46,7 +46,7 @@ Part of HGAI's Knowledge can be Describe,Shown and learned,Mastered or Updated i
 
 
 
-Some Examples of the HGAI 's principle method(There will be detail Descriptions of every title of listed topic):  
+Some Examples of the HGAI 's principle method(There will be detail Descriptions or Instructions of every title of listed topic):  
 
 Logic theory machine and Reasoner.  
 Definitly Description and relationship Description.  
@@ -55,7 +55,7 @@ Ownself,Groups and common-recognize Knowledgebase.
 Ownself,Groups and common-recognize Standard.  
 Ownself,Groups and common-recognize Reference.  
 Basic Concepts Sets.  
-Knowledge Graphs.  
+Knowledge Graphs and Similar Knowledge Graphs' Representation.  
 Semantic Network.  
 RDF,RDFS,OWL and Directing Link.  
 Keywords and Descriptors sets of Logic Description.  
