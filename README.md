@@ -29,7 +29,7 @@ HGAI can easily implement or Proform people's request and order by itself.such a
 HGAI can think by itself.  
 HGAI can recode and update itself in people-known express form,the code of itself which itself recode is Human kindly,easily to read and easily to understand.  
 Multiple HGAI objects can work on one common goal and get co-operations.  
-HGAI can run individually.  
+HGAI can run individually without basic support of others.HGAI can also be a core engine.  
 
 (Details of Technical details:)  
 HGAI have Definitely description method and Fuzzy perception method of thing Description way.HGAI is Hybrid,Different AI methods can combine in HGAI.  
