@@ -63,4 +63,4 @@ Automator and dynamic analyzied Excute.
 
 
 Some Description and instruction of others related Topic title:  
-Restricted Useful Behavior Excution.  
+Specific Restricted Useful Behavior Excution.  
