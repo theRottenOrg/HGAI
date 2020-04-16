@@ -29,6 +29,7 @@ HGAI can easily implement or Proform people's request and order by itself.such a
 HGAI can think by itself.  
 HGAI can recode and update itself in people-known express form,the code of itself which itself recode is Human kindly,easily to read and easily to understand.  
 Multiple HGAI objects can work on one common goal and get co-operations.  
+HGAI can run individually.  
 
 (Details of Technical details:)  
 HGAI have Definitely description method and Fuzzy perception method of thing Description way.HGAI is Hybrid,Different AI methods can combine in HGAI.  
@@ -40,6 +41,8 @@ One HGAI object can work on mutiple missions,One HGAI object can implement mutip
 HGAI is not specific used,HGAI is general used.  
 HGAI is compatible in Multiple Main stream operating System,such as Windows,Linux,ios and Android etc.  
 HGAI can be formed into Saas.  
+Part of HGAI system's visual content support main stream explorers' javascript Render.
+Part of HGAI's Knowledge can be Describe,Shown and learned,Mastered or Updated in the way of Knowledge Graphs including input,output and description.  
 
 
 
@@ -51,3 +54,8 @@ Concept Library.
 Ownself,Groups and common-recognize Knowledgebase.  
 Ownself,Groups and common-recognize Standard.  
 Ownself,Groups and common-recognize Reference.  
+Basic Concepts Sets.  
+Knowledge Graphs.  
+Semantic Network.  
+RDF and Directing Link.  
+Keywords and Descriptors sets of Logic Description.
