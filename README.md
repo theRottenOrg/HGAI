@@ -101,7 +101,7 @@ Knowledge Graphs and Similar Knowledge Graphs' Representation.
 Semantic Network.  
 语义网。  
 RDF,RDFS,OWL and Directing Link.  
-资源描述框架，RDFS，OWL本体描述语言 和 指向链接。  
+资源描述符或资源描述框架，RDFS，OWL本体描述语言 和 指向链接。  
 Keywords and Descriptors sets of Logic Description.  
 关于逻辑描述的关键词或描述符集。  
 Automator and dynamic analyzied Excute.  
